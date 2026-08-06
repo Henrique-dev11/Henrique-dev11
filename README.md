@@ -6,12 +6,12 @@
 <h1 align="center">👋 Olá, eu sou o Henrique!</h1>
 
 <p align="center">
-  <b>Estudante de Tecnologia | Entusiasta & Praticante de Cibersegurança 🛡️</b>
+  <b>Estudante de Tecnologia | Entusiasta & Estudando sobre Cibersegurança 🛡️</b>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:seu-email@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="www.linkedin.com/in/henrique-dev11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nix.developer11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -44,15 +44,6 @@ Atualmente, sou **estudante focado em Cibersegurança**. Dedico minha rotina ao 
 - 🛡️ **Laboratórios de Segurança:** Testes em cenários controlados e simulados de segurança ética.
 - 💡 **Projetos Autorais:** Ideias e scripts de automação/segurança que desenvolvo para aplicar os conteúdos aprendidos.
 - 📚 **Estudos Atuais:** Aprofundando em redes, criptografia e técnicas de exploração ética.
-
----
-
-## 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrique-dev11&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-dev11&layout=compact&theme=radial&hide_border=true" alt="Linguagens Mais Usadas" height="150"/>
-</p>
 
 ---
 

@@ -7,11 +7,11 @@
 <h1 align="center">👋 Olá, eu sou o Henrique!</h1>
 
 <p align="center">
-  <b>Estudante de Desenvolvimento de Sistemas | Desenvolvimento Full Stack | Cibersegurança 🛡️</b>
+  <b>Estudante de Desenvolvimento de Sistemas | Full Stack | Cibersegurança 🛡️</b>
 </p>
 
 <p align="center">
-  Construindo projetos reais para transformar conhecimento técnico em experiência prática.
+  Estou construindo minha jornada na tecnologia, aprendendo na prática e desenvolvendo projetos para evoluir de verdade.
 </p>
 
 <p align="center">
@@ -27,13 +27,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Desenvolvimento de Sistemas**, interessado principalmente em **Desenvolvimento de Software, Cibersegurança, Redes e Infraestrutura**.
+Sou estudante de **Desenvolvimento de Sistemas** e venho me aprofundando em desenvolvimento de software, cibersegurança, redes e infraestrutura.
 
-Minha forma de aprender é baseada na prática: estudo os conceitos e procuro aplicá-los em projetos reais, entendendo não apenas como escrever código, mas também como organizar aplicações, estruturar bancos de dados, desenvolver APIs e aplicar boas práticas de segurança.
+Gosto de aprender colocando a mão na massa. Em vez de ficar só na teoria, tento aplicar o que estudo em projetos reais, porque é assim que consigo entender melhor como as coisas funcionam de verdade.
 
-Atualmente, venho desenvolvendo projetos Full Stack e aprofundando meus conhecimentos em fundamentos de redes e segurança da informação.
+Tenho estudado bastante sobre APIs, bancos de dados, arquitetura de aplicações, segurança e desenvolvimento Full Stack. Também estou começando a me aprofundar mais em redes e segurança da informação, que são áreas que me interessam bastante.
 
-Meu objetivo é continuar evoluindo tecnicamente e conquistar minha primeira oportunidade profissional na área de tecnologia.
+Estou em busca de crescer tecnicamente, ganhar experiência e conquistar minha primeira oportunidade na área de tecnologia.
 
 ---
 
@@ -59,7 +59,7 @@ Meu objetivo é continuar evoluindo tecnicamente e conquistar minha primeira opo
 
 ### 🔐 Cibersegurança e Redes
 
-`Fundamentos de Redes` • `Segurança de Redes` • `Linux` • `Fundamentos de Cibersegurança` • `Laboratórios de estudo em ambientes controlados`
+`Fundamentos de Redes` • `Segurança de Redes` • `Linux` • `Fundamentos de Cibersegurança` • `Laboratórios em ambientes controlados`
 
 ### 🔧 Ferramentas
 
@@ -76,9 +76,9 @@ Meu objetivo é continuar evoluindo tecnicamente e conquistar minha primeira opo
 
 ### 🐾 Plataforma de Serviços para Cuidados de Animais
 
-Aplicação Full Stack voltada à conexão entre tutores de animais e prestadores de serviços de cuidados.
+Estou desenvolvendo uma aplicação Full Stack para conectar tutores de animais com prestadores de serviços de cuidados.
 
-O projeto está sendo utilizado para colocar em prática conceitos como:
+Esse projeto tem sido uma forma de praticar e aprender mais sobre:
 
 * API REST com NestJS;
 * TypeScript;
@@ -89,9 +89,9 @@ O projeto está sendo utilizado para colocar em prática conceitos como:
 * validação de dados;
 * arquitetura modular;
 * desenvolvimento mobile com React Native;
-* integração entre aplicativo mobile e backend.
+* integração entre app mobile e backend.
 
-> Projeto desenvolvido com foco em aprendizado prático, boas práticas de desenvolvimento e construção de portfólio profissional.
+> É um projeto que estou construindo com foco em aprendizado, prática e evolução constante.
 
 ---
 
@@ -112,15 +112,14 @@ O projeto está sendo utilizado para colocar em prática conceitos como:
 
 ## 🎯 Objetivos
 
-* Evoluir minhas habilidades em desenvolvimento de software;
-* aprofundar meus conhecimentos em Cibersegurança e Redes;
-* desenvolver projetos completos e bem documentados;
-* aplicar boas práticas de segurança no desenvolvimento;
-* contribuir com projetos reais;
-* conquistar minha primeira oportunidade profissional em tecnologia.
+* continuar evoluindo como desenvolvedor;
+* aprender cada vez mais sobre cibersegurança e redes;
+* criar projetos que realmente mostrem o que sei fazer;
+* aplicar boas práticas no desenvolvimento;
+* conquistar minha primeira oportunidade na área de tecnologia.
 
 ---
 
 <p align="center">
-  <i>"Aprender tecnologia é entender, construir, testar, errar, corrigir e evoluir."</i>
+  <i>"Tecnologia é prática, paciência e evolução constante."</i>
 </p>

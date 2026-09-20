@@ -183,7 +183,6 @@ Migrei do **Bazzite** para o **CachyOS** de propósito — pra aprender de verda
 
 </div>
 
-> ⚠️ Essa animação só aparece depois que a GitHub Action (`snake.yml`) rodar pelo menos uma vez no repositório `Henrique-dev11/Henrique-dev11`. Veja o passo a passo no final.
 
 <!-- ========================= -->
 <!--        BANNER FIM         -->

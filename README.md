@@ -22,7 +22,7 @@
 
 <br>
 
-Estou construindo minha jornada na tecnologia através de  
+Estou construindo minha jornada na tecnologia através de
 **projetos práticos, estudos e muita curiosidade. 🚀**
 
 <br>
@@ -30,55 +30,53 @@ Estou construindo minha jornada na tecnologia através de
 <a href="https://www.linkedin.com/in/henrique-dev11/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:caueh225@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=2563EB&style=for-the-badge&label=VISITAS" />
+<img src="https://komarev.com/ghpvc/?username=Henrique-dev11&color=2563EB&style=for-the-badge&label=VISITAS"/>
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-🎓 Estudante de **Desenvolvimento de Sistemas**.
+🎓 Estudante de **Desenvolvimento de Sistemas**, com foco prático em **Cibersegurança e ética em segurança da informação**.
 
-💻 Tenho maior interesse em **Backend, Banco de Dados, Arquitetura de Software e Infraestrutura**.
+💻 Maior interesse em **Backend, Banco de Dados, Arquitetura de Software e Infraestrutura**.
 
 📱 Também desenvolvo aplicações utilizando **React Native e Expo**.
 
-🔐 Estou construindo minha base em **Redes, Linux e Cibersegurança**.
+🔐 Estudo em laboratórios controlados de **redes, pentest e red team**, transformando teoria em prática.
 
-🤖 Atualmente estou construindo um **agente de IA do zero, em Python puro** (sem LangChain, sem CrewAI) — implementando manualmente o loop ReAct (reason → act → observe) pra entender de verdade o que acontece por trás dos frameworks.
+🤖 Atualmente construindo um **agente de IA do zero, em Python puro** (sem LangChain, sem CrewAI) — implementando manualmente o loop ReAct (*reason → act → observe*) pra entender o que realmente acontece por trás dos frameworks.
 
-🧠 Gosto de aprender entendendo não apenas **como usar uma tecnologia**, mas também **como ela funciona por trás**.
+🧠 Gosto de aprender entendendo não só **como usar uma tecnologia**, mas **como ela funciona por trás**.
 
-🚀 Atualmente busco evoluir através de projetos práticos e me preparar para minha primeira oportunidade profissional na área de tecnologia.
+🚀 Buscando evoluir através de projetos práticos e me preparar para minha primeira oportunidade profissional em tecnologia.
 
 ---
 
-# 🧪 No que estou mexendo agora
+## 🧪 No que estou mexendo agora
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **🤖 Agente de IA do zero**
-Construindo um agente com a API do Gemini, implementando manualmente o ciclo *reason → act → observe*, tool-use e memória persistente — sem frameworks prontos.
+Construindo com a API do Gemini, implementando manualmente o ciclo *reason → act → observe*, tool-use e memória persistente — sem frameworks prontos.
 
-**🔐 Fundamentos de Redes & Cibersegurança**
-Trilha estruturada de 4 semanas: LAN/WAN, modelo cliente-servidor, e labs práticos em ambiente controlado.
+**🔐 Redes & Cibersegurança**
+Trilha estruturada de 4 semanas: LAN/WAN, modelo cliente-servidor, e labs práticos de pentest em ambiente controlado.
 
 </td>
 <td width="50%" valign="top">
 
 **📱 React Native + Expo**
-Projetos mobile com TypeScript, testando em Expo Go, migrando ambiente entre Fedora e CachyOS.
+Projetos mobile com TypeScript, testando em Expo Go, entre ambientes Fedora e CachyOS.
 
 **🌐 Laravel / PHP**
-Dois projetos web em paralelo, com autenticação customizada e autenticação padrão do Laravel, banco em MariaDB nativo (sem XAMPP).
+Dois projetos web em paralelo — autenticação customizada e autenticação padrão do Laravel — com MariaDB nativo (sem XAMPP).
 
 </td>
 </tr>
@@ -86,47 +84,32 @@ Dois projetos web em paralelo, com autenticação customizada e autenticação p
 
 ---
 
-# 🚀 Tecnologias
+## 🚀 Tecnologias
 
 <div align="center">
 
-### 👨‍💻 Linguagens
-
+**Linguagens**
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,php,html,css&theme=dark" />
 
-<br><br>
-
-### ⚙️ Backend
-
+**Backend**
 <img src="https://skillicons.dev/icons?i=nestjs,nodejs,laravel&theme=dark" />
 
-<br><br>
-
-### 📱 Mobile / Frontend
-
+**Mobile**
 <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-
-<br>
 
 `React Native` • `Expo`
 
-<br><br>
-
-### 🗄️ Banco de Dados
-
+**Banco de Dados**
 <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" />
 
-<br><br>
-
-### 🐳 Infraestrutura e Ferramentas
-
+**Infraestrutura e Ferramentas**
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-# 🐧 Minha jornada Linux
+## 🐧 Minha jornada Linux
 
 <div align="center">
 
@@ -147,7 +130,7 @@ Migrei do **Bazzite** para o **CachyOS** de propósito — pra aprender de verda
 
 ---
 
-# 🔐 Redes & Cibersegurança
+## 🔐 Redes & Cibersegurança
 
 <div align="center">
 
@@ -155,7 +138,7 @@ Migrei do **Bazzite** para o **CachyOS** de propósito — pra aprender de verda
 🌐 Fundamentos de Redes (LAN, WAN, modelo cliente-servidor)
 🐧 Linux (Arch-based: pacman, distrobox)
 🛡️ Segurança da Informação
-🔐 Fundamentos de Cibersegurança
+🔓 Práticas de Pentest / Red Team em laboratório
 🧪 Laboratórios em ambientes controlados
 ```
 
@@ -163,40 +146,44 @@ Migrei do **Bazzite** para o **CachyOS** de propósito — pra aprender de verda
 
 ---
 
-# 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/?username=Henrique-dev11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-dev11&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Henrique-dev11&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrique-dev11&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-# 🏆 Troféus
+## 🏆 Troféus
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Henrique-dev11&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
 ---
 
-# 🐍 Snake do meu contribution graph
+## 🐍 Contribution snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Henrique-dev11/Henrique-dev11/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
-> ⚠️ Essa animação precisa de uma GitHub Action rodando no seu repositório de perfil. Instruções logo abaixo.
+> ⚠️ Essa animação só aparece depois que a GitHub Action (`snake.yml`) rodar pelo menos uma vez no repositório `Henrique-dev11/Henrique-dev11`. Veja o passo a passo no final.
 
 <!-- ========================= -->
 <!--        BANNER FIM         -->

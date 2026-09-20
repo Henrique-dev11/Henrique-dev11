@@ -39,7 +39,7 @@ Desenvolvo projetos utilizando **React Native, Expo e TypeScript** e, no backend
 
 Também utilizo **Linux, Docker, Git e GitHub** durante meus estudos e projetos.
 
-Atualmente estou fortalecendo minha base em **Redes de Computadores e Cibersegurança**, buscando primeiro compreender bem redes, sistemas operacionais e infraestrutura antes de avançar para conteúdos mais específicos da área.
+Atualmente estou fortalecendo minha base em **Redes de Computadores e Cibersegurança**, buscando compreender bem redes, sistemas operacionais e infraestrutura antes de avançar para conteúdos mais específicos da área.
 
 Meu objetivo é continuar evoluindo por meio de projetos práticos e conquistar minha primeira oportunidade profissional em tecnologia.
 
@@ -49,23 +49,133 @@ Meu objetivo é continuar evoluindo por meio de projetos práticos e conquistar 
 
 ### Linguagens
 
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="35"/> **JavaScript** <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="35"/> **TypeScript** <img src="https://skillicons.dev/icons?i=python&theme=dark" width="35"/> **Python** <img src="https://skillicons.dev/icons?i=php&theme=dark" width="35"/> **PHP** <img src="https://skillicons.dev/icons?i=java&theme=dark" width="35"/> **Java** <img src="https://skillicons.dev/icons?i=html&theme=dark" width="35"/> **HTML** <img src="https://skillicons.dev/icons?i=css&theme=dark" width="35"/> **CSS**
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="45"/><br>
+<sub>JavaScript</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="45"/><br>
+<sub>TypeScript</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="45"/><br>
+<sub>Python</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=php&theme=dark" width="45"/><br>
+<sub>PHP</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="45"/><br>
+<sub>Java</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="45"/><br>
+<sub>HTML</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="45"/><br>
+<sub>CSS</sub>
+</td>
+</tr>
+</table>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="35"/> **Node.js** <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="35"/> **NestJS** <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="35"/> **Laravel**
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45"/><br>
+<sub>Node.js</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="45"/><br>
+<sub>NestJS</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="45"/><br>
+<sub>Laravel</sub>
+</td>
+</tr>
+</table>
 
 ### Mobile
 
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="35"/> **React Native** <img src="https://cdn.simpleicons.org/expo/FFFFFF" width="35"/> **Expo**
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="45"/><br>
+<sub>React Native</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://cdn.simpleicons.org/expo/FFFFFF" width="45"/><br>
+<sub>Expo</sub>
+</td>
+</tr>
+</table>
 
 ### Banco de Dados
 
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="35"/> **PostgreSQL** <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="35"/> **MySQL / MariaDB** <img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="35"/> **Prisma ORM**
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45"/><br>
+<sub>PostgreSQL</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45"/><br>
+<sub>MySQL</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="45"/><br>
+<sub>Prisma ORM</sub>
+</td>
+</tr>
+</table>
 
 ### Ferramentas e Infraestrutura
 
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="35"/> **Docker** <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="35"/> **Linux** <img src="https://skillicons.dev/icons?i=git&theme=dark" width="35"/> **Git** <img src="https://skillicons.dev/icons?i=github&theme=dark" width="35"/> **GitHub** <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="35"/> **Visual Studio Code**
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45"/><br>
+<sub>Docker</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45"/><br>
+<sub>Linux</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="45"/><br>
+<sub>Git</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/><br>
+<sub>GitHub</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45"/><br>
+<sub>VS Code</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -73,12 +183,127 @@ Meu objetivo é continuar evoluindo por meio de projetos práticos e conquistar 
 
 O **Laço** é um projeto acadêmico mobile voltado à conexão entre **cuidadores e responsáveis por idosos**.
 
-Estou utilizando o projeto para aprofundar meus conhecimentos em desenvolvimento de aplicações completas, desde a modelagem do banco até a comunicação entre aplicativo e backend.
+Estou utilizando o projeto para aprofundar meus conhecimentos no desenvolvimento de aplicações completas, desde a modelagem do banco de dados até a comunicação entre aplicativo e backend.
 
-### Tecnologias
+### Tecnologias utilizadas
 
-* React Native
-* Expo
-* TypeScript
-* NestJS
-* Prisma ORM
+`React Native` • `Expo` • `TypeScript` • `NestJS` • `Prisma` • `PostgreSQL` • `Docker`
+
+### Conceitos aplicados
+
+* API REST
+* Modelagem de banco de dados relacional
+* Autenticação com JWT
+* Hash de senhas com bcrypt
+* Docker e containers
+* Integração entre mobile, backend e banco de dados
+* Versionamento com Git e GitHub
+
+---
+
+## Cibersegurança
+
+Atualmente estou construindo minha base na área de **Cibersegurança**.
+
+Meus estudos estão concentrados em:
+
+```text
+Redes de Computadores
+TCP/IP
+Protocolos e portas
+Modelo cliente-servidor
+Linux
+Infraestrutura
+Segurança da Informação
+Fundamentos de Cibersegurança
+```
+
+Meu objetivo é compreender primeiro como **redes, sistemas e infraestrutura** funcionam para construir uma base sólida antes de avançar para áreas mais específicas de segurança.
+
+---
+
+## Linux
+
+Linux faz parte do meu ambiente de desenvolvimento e aprendizado.
+
+Atualmente venho praticando:
+
+* Terminal
+* Estrutura de diretórios
+* Permissões
+* Processos
+* Logs
+* Gerenciamento de pacotes
+* Docker
+* Docker Compose
+* Containers
+
+Além do desenvolvimento, esses conhecimentos fazem parte da base que estou construindo para estudar **Infraestrutura e Cibersegurança**.
+
+---
+
+## Atualmente estudando
+
+```text
+Backend
+├── TypeScript
+├── NestJS
+├── APIs REST
+├── Prisma
+└── PostgreSQL
+
+Infraestrutura
+├── Linux
+├── Docker
+└── Docker Compose
+
+Versionamento
+├── Git
+└── GitHub
+
+Cibersegurança
+├── Redes de Computadores
+├── TCP/IP
+├── Protocolos
+└── Fundamentos de Segurança
+```
+
+---
+
+## Estatísticas do GitHub
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/?username=Henrique-dev11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-dev11&layout=compact&theme=tokyonight&hide_border=true" />
+
+---
+
+## Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Henrique-dev11/Henrique-dev11/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## Contato
+
+Estou aberto a **trocar experiências, aprender com outros desenvolvedores e conhecer oportunidades na área de tecnologia**.
+
+<a href="https://www.linkedin.com/in/henrique-dev11/">
+<img src="https://img.shields.io/badge/LinkedIn-Henrique%20Dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:caueh225@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:2563EB,100:0D1117&height=120&section=footer"/>
+
+</div>

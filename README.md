@@ -1,125 +1,107 @@
-<!-- Banner de Topo -->
+<!-- ========================= -->
+<!--        BANNER TOPO        -->
+<!-- ========================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Henrique%20Dev&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" alt="Banner Henrique Dev"/>
-</p>
+<div align="center">
 
-<h1 align="center">👋 Olá, eu sou o Henrique!</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:00C6FF&height=210&section=header&text=Henrique%20Dev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<p align="center">
-  <b>Estudante de Desenvolvimento de Sistemas | Full Stack | Cibersegurança 🛡️</b>
-</p>
+</div>
 
-<p align="center">
-  Estou construindo minha jornada na tecnologia, aprendendo na prática e desenvolvendo projetos para evoluir de verdade.
-</p>
+<!-- ========================= -->
+<!--       APRESENTAÇÃO        -->
+<!-- ========================= -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/henrique-dev11/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:caueh225@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<div align="center">
 
----
+# 👋 Olá, eu sou o Henrique!
 
-## 👨‍💻 Sobre mim
+### 💻 Estudante de Desenvolvimento de Sistemas
 
-Sou estudante de **Desenvolvimento de Sistemas** e venho me aprofundando em desenvolvimento de software, cibersegurança, redes e infraestrutura.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Developer+em+forma%C3%A7%C3%A3o;TypeScript+%7C+NestJS+%7C+PostgreSQL;React+Native+%7C+Docker+%7C+Prisma;Estudando+Redes+e+Ciberseguran%C3%A7a;Sempre+aprendendo+algo+novo..." />
 
-Gosto de aprender colocando a mão na massa. Em vez de ficar só na teoria, tento aplicar o que estudo em projetos reais, porque é assim que consigo entender melhor como as coisas funcionam de verdade.
+<br>
 
-Tenho estudado bastante sobre APIs, bancos de dados, arquitetura de aplicações, segurança e desenvolvimento Full Stack. Também estou começando a me aprofundar mais em redes e segurança da informação, que são áreas que me interessam bastante.
+Estou construindo minha jornada na tecnologia através de  
+**projetos práticos, estudos e muita curiosidade. 🚀**
 
-Estou em busca de crescer tecnicamente, ganhar experiência e conquistar minha primeira oportunidade na área de tecnologia.
+<br>
 
----
+<a href="https://www.linkedin.com/in/henrique-dev11/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🛠️ Tecnologias e conhecimentos
+<a href="mailto:caueh225@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 💻 Desenvolvimento
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-</p>
-
-### 🗄️ Backend e Banco de Dados
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
-### 🔐 Cibersegurança e Redes
-
-`Fundamentos de Redes` • `Segurança de Redes` • `Linux` • `Fundamentos de Cibersegurança` • `Laboratórios em ambientes controlados`
-
-### 🔧 Ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+</div>
 
 ---
 
-## 🚀 Projetos em desenvolvimento
+# 👨‍💻 Sobre mim
 
-### 🐾 Plataforma de Serviços para Cuidados de Animais
+🎓 Estudante de **Desenvolvimento de Sistemas**.
 
-Estou desenvolvendo uma aplicação Full Stack para conectar tutores de animais com prestadores de serviços de cuidados.
+💻 Tenho maior interesse em **Backend, Banco de Dados, Arquitetura de Software e Infraestrutura**.
 
-Esse projeto tem sido uma forma de praticar e aprender mais sobre:
+📱 Também desenvolvo aplicações utilizando **React Native e Expo**.
 
-* API REST com NestJS;
-* TypeScript;
-* PostgreSQL;
-* Prisma ORM;
-* Docker;
-* autenticação e segurança;
-* validação de dados;
-* arquitetura modular;
-* desenvolvimento mobile com React Native;
-* integração entre app mobile e backend.
+🔐 Estou construindo minha base em **Redes, Linux e Cibersegurança**.
 
-> É um projeto que estou construindo com foco em aprendizado, prática e evolução constante.
+🧠 Gosto de aprender entendendo não apenas **como usar uma tecnologia**, mas também **como ela funciona por trás**.
+
+🚀 Atualmente busco evoluir através de projetos práticos e me preparar para minha primeira oportunidade profissional na área de tecnologia.
 
 ---
 
-## 📚 Atualmente estudando
+# 🚀 Tecnologias
 
-* Desenvolvimento Full Stack;
-* TypeScript e JavaScript;
-* APIs REST;
-* React Native;
-* PostgreSQL e modelagem de dados;
-* Docker;
-* Git e GitHub;
-* Fundamentos de Redes;
-* Cibersegurança;
-* Segurança em aplicações.
+<div align="center">
+
+### 👨‍💻 Linguagens
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,php,html,css&theme=dark" />
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,laravel&theme=dark" />
+
+<br><br>
+
+### 📱 Mobile / Frontend
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+
+<br>
+
+`React Native` • `Expo`
+
+<br><br>
+
+### 🗄️ Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" />
+
+<br><br>
+
+### 🐳 Infraestrutura e Ferramentas
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
-## 🎯 Objetivos
+# 🔐 Redes & Cibersegurança
 
-* continuar evoluindo como desenvolvedor;
-* aprender cada vez mais sobre cibersegurança e redes;
-* criar projetos que realmente mostrem o que sei fazer;
-* aplicar boas práticas no desenvolvimento;
-* conquistar minha primeira oportunidade na área de tecnologia.
+<div align="center">
 
----
-
-<p align="center">
-  <i>"Tecnologia é prática, paciência e evolução constante."</i>
-</p>
+```text
+🌐 Fundamentos de Redes
+🐧 Linux
+🛡️ Segurança da Informação
+🔐 Fundamentos de Cibersegurança
+🧪 Laboratórios em ambientes controlados

@@ -61,10 +61,6 @@ Meu objetivo é continuar evoluindo por meio de projetos práticos e conquistar 
 <sub>TypeScript</sub>
 </td>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="45"/><br>
-<sub>Python</sub>
-</td>
 
 <td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=php&theme=dark" width="45"/><br>
@@ -270,15 +266,6 @@ Cibersegurança
 
 ---
 
-## Estatísticas do GitHub
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/?username=Henrique-dev11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-dev11&layout=compact&theme=tokyonight&hide_border=true" />
-
----
-
-## Contributions
 
 <div align="center">
 
